@@ -3,3 +3,5 @@ Gabriel C. Mallari
 
 ![](pic1.png)
 ![](pic2.png)
+![](pic3.png)
+![](pic4.png)
