@@ -7,7 +7,7 @@ Gabriel C. Mallari
 ![](pic4.png)
 ![](pic5.png)
 ![](pic7.png)
-![](pic8.png)
+![](pic8.1.png)
 ![](pic9.png)
 ![](pic10.png)
 ![](pic11.png)
