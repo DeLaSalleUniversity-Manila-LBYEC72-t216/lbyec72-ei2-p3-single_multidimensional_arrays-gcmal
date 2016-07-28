@@ -14,4 +14,7 @@ Gabriel C. Mallari
 ![](pic12.png)
 ![](pic13.png)
 ![](pic14.png)
+![](col.PNG)
+![](diag.PNG)
+![](row.PNG)
 ![](pic15.png)
